@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "tipo":"Fotografia",
+        "nome": "Foco Câmeras",
+        "descricao": "A melhor loja de câmeras de uma cidade qualquer e na região onde fica.",
+        "endereco": "Rua da lente de contato nº 00",
+        "telefone": "(66) 616-6666",
+        "imagem":"https://picsum.photos/id/250/600"
+    },
+    {
+        "id": "2",
+        "tipo":"Equipamentos Eletrônicos",
+        "nome": "Micro Desmontado",
+        "descricao": "Quebra e destruição de computadores, notebooks e equipamentos eletrônicos em geral",
+        "endereco":"Rua Computador Destruido nº0110101",
+        "telefone": "(77) 012-6543",
+        "imagem":"https://picsum.photos/id/36/600"
+    },
+    {
+        "id": "3",
+        "tipo":"Imobiliaria",
+        "nome": "Senhor das Estrelas",
+        "descricao": "Venda e aluguel de imóveis em planetas e estrelas na via láctea. NÃO COMPRAMOS OU VENDEMOS NO SOL.",
+        "endereco":"Rua Rabo de Cometa nº69",
+        "telefone": "(78) 877-2112",
+        "imagem":"https://picsum.photos/id/120/600"
+    },
+    {
+        "id": "4",
+        "tipo":"Madereira",
+        "nome": "Roda de Madeira",
+        "descricao": "Só faço roda de madeira.",
+        "endereco":"Rua Caixa de Madeira nº24",
+        "telefone": "(11) 111-1111",
+        "imagem":"https://picsum.photos/id/99/600"
+    },
+    {
+        "id": "5",
+        "tipo":"Pombo Correio",
+        "nome": "Entrega Ligeiro",
+        "descricao": "Entrega de mensagens areas por pombas. Os pombos mais rápidos do Brasil. Não garantimos a entrega se houver gatos na residência.",
+        "endereco":"Rua Cagada na Cabeça nº64",
+        "telefone": "(44) 221-1987",
+        "imagem":"https://picsum.photos/id/258/600"
+    },
+    {
+        "id": "1",
+        "tipo":"Fotografia",
+        "nome": "Foco Câmeras",
+        "descricao": "A melhor loja de câmeras de uma cidade qualquer e na região onde fica.",
+        "endereco": "Rua da lente de contato nº 00",
+        "telefone": "(66) 616-6666",
+        "imagem":"https://picsum.photos/id/250/600"
+    },
+    {
+        "id": "2",
+        "tipo":"Equipamentos Eletrônicos",
+        "nome": "Micro Desmontado",
+        "descricao": "Quebra e destruição de computadores, notebooks e equipamentos eletrônicos em geral",
+        "endereco":"Rua Computador Destruido nº0110101",
+        "telefone": "(77) 012-6543",
+        "imagem":"https://picsum.photos/id/36/600"
+    },
+    {
+        "id": "3",
+        "tipo":"Imobiliaria",
+        "nome": "Senhor das Estrelas",
+        "descricao": "Venda e aluguel de imóveis em planetas e estrelas na via láctea. NÃO COMPRAMOS OU VENDEMOS NO SOL.",
+        "endereco":"Rua Rabo de Cometa nº69",
+        "telefone": "(78) 877-2112",
+        "imagem":"https://picsum.photos/id/120/600"
+    },
+    {
+        "id": "4",
+        "tipo":"Madereira",
+        "nome": "Roda de Madeira",
+        "descricao": "Só faço roda de madeira.",
+        "endereco":"Rua Caixa de Madeira nº24",
+        "telefone": "(11) 111-1111",
+        "imagem":"https://picsum.photos/id/99/600"
+    },
+    {
+        "id": "5",
+        "tipo":"Pombo Correio",
+        "nome": "Entrega Ligeiro",
+        "descricao": "Entrega de mensagens areas por pombas. Os pombos mais rápidos do Brasil. Não garantimos a entrega se houver gatos na residência.",
+        "endereco":"Rua Cagada na Cabeça nº64",
+        "telefone": "(44) 221-1987",
+        "imagem":"https://picsum.photos/id/258/600"
+    }
+]

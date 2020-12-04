@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77953625662",
+    "project_id": "app-guia-comercial-mobile",
+    "storage_bucket": "app-guia-comercial-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77953625662:android:767a2f613204d07915eb6f",
+        "android_client_info": {
+          "package_name": "com.example.guia_comercial_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77953625662-8kouka2o333ud0iahkhghlko3mjsb6he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlto4vg41EU71HzwBQxMOlLf9xCU2fWpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77953625662-8kouka2o333ud0iahkhghlko3mjsb6he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
